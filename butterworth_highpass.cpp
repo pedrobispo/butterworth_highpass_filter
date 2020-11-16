@@ -6,6 +6,8 @@
 // Copyright (c) 2011 School of Engineering, Cranfield University
 // License : LGPL - http://www.gnu.org/licenses/lgpl.html
 
+// OpenCV 4.0
+
 #include <opencv2/opencv.hpp>   		// open cv general include file
 #include <opencv2/highgui.hpp>	// open cv GUI include file
 #include <iostream>		// standard C++ I/O
